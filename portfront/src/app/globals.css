@@ -1,0 +1,15 @@
+body {
+  margin: 5px;
+}
+a {
+  color: black; 
+  text-decoration: none;
+}
+
+.home-button {
+  background-color: white;
+  margin-inline-end: 5px;
+  margin-top: 10px;
+  padding-inline: 10px;
+  cursor: pointer;
+}

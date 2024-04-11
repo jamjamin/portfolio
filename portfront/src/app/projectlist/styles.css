@@ -1,0 +1,35 @@
+.list-top {
+    padding: 10px;
+}
+
+.list-main {
+    padding: 10px
+}
+
+.project-list {
+    color: black;
+    display: flex;
+    text-align: center;
+    gap: 10px;
+}
+
+.project-item {
+    width: 250px;
+    padding: 10px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.project-title {
+    font-size: 24px;
+}
+
+.project-item:hover {
+    background-color: darkgray;
+}
+
+.project-tags {
+    font-size: 10px;
+}
